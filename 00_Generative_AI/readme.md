@@ -1,0 +1,2 @@
+# Generative AI and LLMs
+Definition: Generative AI refers to a subset of artificial intelligence that involves creating new content, such as images, text, music, and more, rather than simply analyzing or interpreting existing data. It uses machine learning models, particularly generative models, to produce outputs that are novel and often indistinguishable from human-created content. 🌟🫧
