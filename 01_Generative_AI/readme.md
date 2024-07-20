@@ -46,7 +46,10 @@ Generative models can perpetuate biases present in training data, leading to bia
 Summary
 Generative AI represents a powerful and transformative field within artificial intelligence, capable of creating new and original content across various domains. By leveraging advanced models like GANs, VAEs, and Transformers, generative AI opens up new possibilities for creativity, efficiency, and personalization while also posing significant ethical and technical challenges.
 
-Major Benchmarks for LLMs
+LLM
+
+An LLM, or Large Language Model, is a type of artificial intelligence (AI) that is designed to understand, generate, and manipulate human language. These models are built using machine learning techniques, specifically a subset called deep learning, and are trained on vast amounts of text data to learn the statistical properties of language.
+
 Large Language Models (LLMs) are evaluated based on a variety of benchmarks to measure their performance across different tasks. These benchmarks assess the model's ability to understand, generate, and interact with natural language. Here are some of the major benchmarks:
 
 GLUE (General Language Understanding Evaluation):
