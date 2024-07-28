@@ -1,5 +1,20 @@
 # Generative AI and LLMs
-Definition: Generative AI refers to a subset of artificial intelligence that involves creating new content, such as images, text, music, and more, rather than simply analyzing or interpreting existing data. It uses machine learning models, particularly generative models, to produce outputs that are novel and often indistinguishable from human-created content. 🌟🫧
+
+Definition: Generative AI refers to a subset of artificial intelligence that involves creating new content, such as images, text, music, and more, rather than simply analyzing or interpreting existing data. It uses machine learning models, particularly generative models, to produce outputs that are novel and often indistinguishable from human-created content. 
+
+Key Technologies
+Generative Adversarial Networks (GANs):
+
+Components: Consist of two neural networks, a generator and a discriminator, that are trained together.
+Function: The generator creates fake data, while the discriminator evaluates it against real data. Through this adversarial process, the generator improves its ability to create realistic content.
+Variational Autoencoders (VAEs):
+
+Components: Comprised of an encoder and a decoder.
+Function: The encoder compresses input data into a latent space representation, and the decoder generates new data from this representation, often used for creating images.
+Transformer Models:
+
+Components: Use self-attention mechanisms to process input data.
+Function: Models like GPT (Generative Pre-trained Transformer) can generate coherent and contextually relevant text, as well as code, based on large-scale training datasets.
 
 🈸 Applications 
 Text Generation:
@@ -46,7 +61,7 @@ Generative models can perpetuate biases present in training data, leading to bia
 Summary
 Generative AI represents a powerful and transformative field within artificial intelligence, capable of creating new and original content across various domains. By leveraging advanced models like GANs, VAEs, and Transformers, generative AI opens up new possibilities for creativity, efficiency, and personalization while also posing significant ethical and technical challenges.
 
-LLM
+### LLM
 
 An LLM, or Large Language Model, is a type of artificial intelligence (AI) that is designed to understand, generate, and manipulate human language. These models are built using machine learning techniques, specifically a subset called deep learning, and are trained on vast amounts of text data to learn the statistical properties of language.
 
@@ -164,10 +179,10 @@ Google Gemini follows closely, performing almost on par with ChatGPT-4 but with 
 Microsoft Copilot ranks third, showing robust performance but slightly trailing the top two in a few benchmarks.
 LLaMA 3 (Meta), while strong, ranks fourth, with performance just a bit behind the others, particularly in more complex language understanding and reasoning tasks. But it is the only LLM which is Open Source among the top LLMs.
 
-Using GPUs and Neural Engines with Generative AI
+## Using GPUs and Neural Engines with Generative AI
 Both GPUs and Neural Engines are crucial for handling the computational demands of generative AI tasks. Here’s how they are used:
 
-GPUs (Graphics Processing Units)
+### GPUs (Graphics Processing Units)
 Role in Generative AI:
 
 Training Models: GPUs are extensively used for training generative models like GANs, VAEs, and Transformers. Training involves large-scale matrix multiplications and other operations that benefit from the parallel processing capabilities of GPUs.
@@ -177,11 +192,12 @@ Advantages of GPUs:
 Parallel Processing: Capable of handling thousands of parallel threads, making them ideal for the computationally intensive tasks involved in training large models.
 High Throughput: Efficiently processes large batches of data, reducing training times.
 Flexibility: Can be used for a wide range of tasks beyond generative AI, including image and video processing, scientific simulations, and more.
-Examples of Usage:
+### Examples of Usage:
 
 GAN Training: Training the generator and discriminator networks in GANs to produce high-quality images.
 Transformer Models: Training large language models like GPT, which require substantial computational resources.
-Neural Engines
+
+### Neural Engines
 Role in Generative AI:
 
 Inference: Neural Engines are primarily used for inference tasks. They are designed to accelerate specific AI operations, making them ideal for running trained models efficiently.
@@ -222,7 +238,8 @@ Summary
 GPUs: Essential for the training phase of generative AI due to their ability to handle large-scale parallel computations efficiently. They are also used for high-throughput inference tasks.
 Neural Engines: Primarily used for inference, providing efficient, low-power, real-time AI capabilities, especially on edge devices.
 Combined Workflow: Train models on GPUs for their computational power, then deploy them to devices with Neural Engines for efficient and real-time inference. This approach leverages the strengths of both types of hardware to optimize the performance and deployment of generative AI applications.
-Large Language Models (LLMs)
+
+## Large Language Models (LLMs)
 Definition: Large Language Models (LLMs) are advanced machine learning models trained on vast amounts of text data to understand and generate human-like language. These models use deep learning techniques, particularly transformer architectures, to process and produce text.
 
 Key Characteristics:
@@ -230,7 +247,7 @@ Key Characteristics:
 Scale: LLMs are characterized by their large number of parameters, often ranging from hundreds of millions to billions or even trillions of parameters.
 Pre-training and Fine-tuning: LLMs are typically pre-trained on diverse datasets to learn general language patterns and then fine-tuned on specific tasks or domains to improve performance on particular applications.
 Transformer Architecture: The underlying architecture for most LLMs, transformers, uses self-attention mechanisms to efficiently handle long-range dependencies in text.
-Examples:
+### Examples:
 
 GPT-4 (Generative Pre-trained Transformer 4)
 Google Gemini

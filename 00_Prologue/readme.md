@@ -1,11 +1,81 @@
-# Symbolic AI
-
+# Background
+## Symbolic AI
 Symbolic AI, also known as "Good Old-Fashioned Artificial Intelligence" (GOFAI), is an approach to artificial intelligence that relies on the manipulation of symbols and the use of explicit rules to represent knowledge and perform reasoning. Unlike modern machine learning techniques, which often rely on statistical methods and large amounts of data, symbolic AI focuses on using structured, human-readable representations of problems and applying logical operations to solve them.
 
-# Examples of Symbolic AI Systems:
-Expert Systems: These are designed to emulate the decision-making ability of a human expert in a specific domain. Examples include MYCIN for medical diagnosis and DENDRAL for chemical analysis.
-Logic Programming: Languages like Prolog are based on symbolic AI principles, allowing developers to define relationships and rules that the system uses to solve problems.
-Knowledge Representation: Ontologies and semantic networks are used to represent complex relationships between concepts in a way that can be processed by AI systems.
+## AI:
+Artificial Intelligence (AI) is a branch of computer science focused on creating systems capable of performing tasks that typically require human intelligence. These tasks include:
+* learning
+* reasoning
+* problem solving
+* perception
+* Language Understanding & generation
+* Autonomus Operations
 
-# Symbolic AI in Modern AI:
-While symbolic AI has been largely overshadowed by machine learning and neural network approaches in recent years, it still plays a role in certain applications where interpretability, explicit knowledge representation, and logical reasoning are crucial. Moreover, there is growing interest in hybrid approaches that combine the strengths of symbolic AI and machine learning to create more robust and versatile AI systems.
+## Applied Generative AI and Cloud-Native Developer Qualities and Skills
+
+An Applied GenAI and cloud-native developer possesses a unique blend of skills and qualities that enable them to create, deploy, and manage intelligent applications within cloud environments. Here are the key qualities and skills such a developer should have:
+
+Technical Skills
+Programming Proficiency
+
+Languages: Expertise in programming languages commonly used in AI and cloud-native and web development, such as Python, and may be TypeScript.
+AI Frameworks: Familiarity with AI frameworks and libraries such as PyTorch.
+API and Microservices Frameworks: Expertise in
+AI and Machine Learning Knowledge
+
+Algorithms: Understanding of machine learning algorithms, deep learning, neural networks, and natural language processing (NLP).
+Fine Tunning LLMs: Fine-tuning AI models like ChatGPT, Gemini, and open source like Llama.
+Cloud Computing Expertise
+
+Cloud Platforms: Proficiency in using Open Source cloud platforms like Kubernetes, Kafka, and AI Powered Severless Platforms like Azure Container Apps (AKA).
+Cloud Services: Knowledge of cloud services such as compute, storage, databases, machine learning, and AI services (e.g., OpenAI APIs, Google Gemini APIs).
+DevOps and Automation
+
+CI/CD Pipelines: Experience in setting up and managing Continuous Integration and Continuous Deployment (CI/CD) pipelines using tools like GitHub Actions.
+Infrastructure as Code (IaC): Proficiency with IaC tools such as Terraform.
+Containerization and Orchestration
+
+Docker: Expertise in containerizing applications using Docker.
+Kubernetes: Skills in deploying, managing, and scaling containerized applications using Kubernetes.
+Data Management and Processing
+
+Databases: Knowledge of SQL databases, such as PostgreSQL, and Redis.
+Data Pipelines: Experience with data processing frameworks like Apache Kafka.
+Security and Compliance
+
+Security Best Practices: Understanding of security best practices for AI and cloud applications, including identity and access management, encryption, and compliance standards like GDPR and HIPAA.
+Soft Skills
+Problem-Solving
+
+Ability to approach complex problems systematically and develop innovative solutions using AI and cloud technologies.
+Collaboration and Communication
+
+Strong communication skills to work effectively with cross-functional teams, including data scientists, software engineers, and business stakeholders.
+Ability to explain technical concepts to non-technical stakeholders.
+Adaptability
+
+Willingness to continuously learn and adapt to new technologies, tools, and methodologies in the fast-evolving fields of AI and cloud computing.
+Attention to Detail
+
+Precision in developing and deploying applications, ensuring they are robust, secure, and perform well in various environments.
+Project Management
+
+Skills in managing projects, including planning, scheduling, and tracking progress to ensure timely delivery of AI and cloud solutions.
+Qualities
+Curiosity and Innovation
+
+A strong desire to explore new technologies and methodologies, fostering innovation in AI and cloud-native development.
+Resilience and Patience
+
+The ability to handle setbacks and failures, persistently working towards finding solutions and improving systems.
+Ethical Awareness
+
+A keen understanding of the ethical implications of AI and cloud technologies, ensuring responsible and fair use of these technologies.
+Continuous Learning
+Staying Updated
+
+Regularly following industry trends, attending conferences, and participating in professional communities to stay current with advancements in AI and cloud-native technologies.
+Certifications and Training
+
+Pursuing relevant certifications such as AWS Certified Solutions Architect, Microsoft Certified: Azure AI Engineer Associate, Google Professional Data Engineer, and other specialized AI and cloud certifications.
+By embodying these skills, qualities, and a commitment to continuous learning, an AI and cloud-native developer can effectively contribute to the development of intelligent, scalable, and efficient applications that leverage the power of AI and cloud computing.
