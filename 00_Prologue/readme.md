@@ -15,67 +15,71 @@ Artificial Intelligence (AI) is a branch of computer science focused on creating
 
 An Applied GenAI and cloud-native developer possesses a unique blend of skills and qualities that enable them to create, deploy, and manage intelligent applications within cloud environments. Here are the key qualities and skills such a developer should have:
 
-Technical Skills
-Programming Proficiency
+### Technical Skills
 
-Languages: Expertise in programming languages commonly used in AI and cloud-native and web development, such as Python, and may be TypeScript.
-AI Frameworks: Familiarity with AI frameworks and libraries such as PyTorch.
-API and Microservices Frameworks: Expertise in
-AI and Machine Learning Knowledge
+1. **Programming Proficiency**
+   - **Languages**: Expertise in programming languages commonly used in AI and cloud-native and web development, such as Python, and may be TypeScript.
+   - **AI Frameworks**: Familiarity with AI frameworks and libraries such as PyTorch.
+   - **API and Microservices Frameworks**: Expertise in 
 
-Algorithms: Understanding of machine learning algorithms, deep learning, neural networks, and natural language processing (NLP).
-Fine Tunning LLMs: Fine-tuning AI models like ChatGPT, Gemini, and open source like Llama.
-Cloud Computing Expertise
+2. **AI and Machine Learning Knowledge**
+   - **Algorithms**: Understanding of machine learning algorithms, deep learning, neural networks, and natural language processing (NLP).
+   - **Fine Tunning LLMs**: Fine-tuning AI models like ChatGPT, Gemini, and open source like Llama.
 
-Cloud Platforms: Proficiency in using Open Source cloud platforms like Kubernetes, Kafka, and AI Powered Severless Platforms like Azure Container Apps (AKA).
-Cloud Services: Knowledge of cloud services such as compute, storage, databases, machine learning, and AI services (e.g., OpenAI APIs, Google Gemini APIs).
-DevOps and Automation
+3. **Cloud Computing Expertise**
+   - **Cloud Platforms**: Proficiency in using Open Source cloud platforms like Kubernetes, Kafka, and AI Powered Severless Platforms like Azure Container Apps (AKA).
+   - **Cloud Services**: Knowledge of cloud services such as compute, storage, databases, machine learning, and AI services (e.g., OpenAI APIs, Google Gemini APIs).
 
-CI/CD Pipelines: Experience in setting up and managing Continuous Integration and Continuous Deployment (CI/CD) pipelines using tools like GitHub Actions.
-Infrastructure as Code (IaC): Proficiency with IaC tools such as Terraform.
-Containerization and Orchestration
+4. **DevOps and Automation**
+   - **CI/CD Pipelines**: Experience in setting up and managing Continuous Integration and Continuous Deployment (CI/CD) pipelines using tools like GitHub Actions.
+   - **Infrastructure as Code (IaC)**: Proficiency with IaC tools such as Terraform.
 
-Docker: Expertise in containerizing applications using Docker.
-Kubernetes: Skills in deploying, managing, and scaling containerized applications using Kubernetes.
-Data Management and Processing
+5. **Containerization and Orchestration**
+   - **Docker**: Expertise in containerizing applications using Docker.
+   - **Kubernetes**: Skills in deploying, managing, and scaling containerized applications using Kubernetes.
 
-Databases: Knowledge of SQL databases, such as PostgreSQL, and Redis.
-Data Pipelines: Experience with data processing frameworks like Apache Kafka.
-Security and Compliance
+6. **Data Management and Processing**
+   - **Databases**: Knowledge of SQL databases, such as PostgreSQL, and Redis.
+   - **Data Pipelines**: Experience with data processing frameworks like Apache Kafka.
 
-Security Best Practices: Understanding of security best practices for AI and cloud applications, including identity and access management, encryption, and compliance standards like GDPR and HIPAA.
-Soft Skills
-Problem-Solving
+7. **Security and Compliance**
+   - **Security Best Practices**: Understanding of security best practices for AI and cloud applications, including identity and access management, encryption, and compliance standards like GDPR and HIPAA.
 
-Ability to approach complex problems systematically and develop innovative solutions using AI and cloud technologies.
-Collaboration and Communication
+### Soft Skills
 
-Strong communication skills to work effectively with cross-functional teams, including data scientists, software engineers, and business stakeholders.
-Ability to explain technical concepts to non-technical stakeholders.
-Adaptability
+1. **Problem-Solving**
+   - Ability to approach complex problems systematically and develop innovative solutions using AI and cloud technologies.
 
-Willingness to continuously learn and adapt to new technologies, tools, and methodologies in the fast-evolving fields of AI and cloud computing.
-Attention to Detail
+2. **Collaboration and Communication**
+   - Strong communication skills to work effectively with cross-functional teams, including data scientists, software engineers, and business stakeholders.
+   - Ability to explain technical concepts to non-technical stakeholders.
 
-Precision in developing and deploying applications, ensuring they are robust, secure, and perform well in various environments.
-Project Management
+3. **Adaptability**
+   - Willingness to continuously learn and adapt to new technologies, tools, and methodologies in the fast-evolving fields of AI and cloud computing.
 
-Skills in managing projects, including planning, scheduling, and tracking progress to ensure timely delivery of AI and cloud solutions.
-Qualities
-Curiosity and Innovation
+4. **Attention to Detail**
+   - Precision in developing and deploying applications, ensuring they are robust, secure, and perform well in various environments.
 
-A strong desire to explore new technologies and methodologies, fostering innovation in AI and cloud-native development.
-Resilience and Patience
+5. **Project Management**
+   - Skills in managing projects, including planning, scheduling, and tracking progress to ensure timely delivery of AI and cloud solutions.
 
-The ability to handle setbacks and failures, persistently working towards finding solutions and improving systems.
-Ethical Awareness
+### Qualities
 
-A keen understanding of the ethical implications of AI and cloud technologies, ensuring responsible and fair use of these technologies.
-Continuous Learning
-Staying Updated
+1. **Curiosity and Innovation**
+   - A strong desire to explore new technologies and methodologies, fostering innovation in AI and cloud-native development.
 
-Regularly following industry trends, attending conferences, and participating in professional communities to stay current with advancements in AI and cloud-native technologies.
-Certifications and Training
+2. **Resilience and Patience**
+   - The ability to handle setbacks and failures, persistently working towards finding solutions and improving systems.
 
-Pursuing relevant certifications such as AWS Certified Solutions Architect, Microsoft Certified: Azure AI Engineer Associate, Google Professional Data Engineer, and other specialized AI and cloud certifications.
+3. **Ethical Awareness**
+   - A keen understanding of the ethical implications of AI and cloud technologies, ensuring responsible and fair use of these technologies.
+
+### Continuous Learning
+
+1. **Staying Updated**
+   - Regularly following industry trends, attending conferences, and participating in professional communities to stay current with advancements in AI and cloud-native technologies.
+
+2. **Certifications and Training**
+   - Pursuing relevant certifications such as AWS Certified Solutions Architect, Microsoft Certified: Azure AI Engineer Associate, Google Professional Data Engineer, and other specialized AI and cloud certifications.
+
 By embodying these skills, qualities, and a commitment to continuous learning, an AI and cloud-native developer can effectively contribute to the development of intelligent, scalable, and efficient applications that leverage the power of AI and cloud computing.
